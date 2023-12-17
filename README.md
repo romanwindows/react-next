@@ -49,3 +49,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## part05 lesson05
 -правили документ _document.tsx (у відео він створювався з нуля у вигляді класового елемента, в новій версії next він створюється за замовчуванням)
 -_document.tsx в даному випадку слугує для додавання lang="ru" до тега html (хз чи є в нього ще якесь застосування)
+
+## part07 lesson04
+-всі модифікації в цьому коміті слугують для того щоб у кастомному компоненті
+Button можна було юзати рідні атрибути тегу button (як от className, onClick i т.п.)
