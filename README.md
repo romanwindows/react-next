@@ -53,3 +53,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## part07 lesson04
 -всі модифікації в цьому коміті слугують для того щоб у кастомному компоненті
 Button можна було юзати рідні атрибути тегу button (як от className, onClick i т.п.)
+
+## part08 lesson01
+-- З версії 16.8 зявились hooks. Дають можливість використовувати функціональні компоненти
+замість класових (окрім Error boudary і ще деякі випадки Життєвого циклу компонента)
+-- Види хуків
+ОСНОВНІ: useState useEffect useContext
+ДОДАТКОВІ: useReducer useCallback useMemo useRef useLayoutEffect useImperativeHandle useDebugValue
